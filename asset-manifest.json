@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/venskolev/FRONTEND-13-project-2022-04-27/static/css/main.a3cfdc74.chunk.css",
-    "main.js": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/main.ef9c2d26.chunk.js",
-    "main.js.map": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/main.ef9c2d26.chunk.js.map",
-    "runtime~main.js": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/runtime~main.f50d8cf8.js",
-    "runtime~main.js.map": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/runtime~main.f50d8cf8.js.map",
-    "static/js/2.647bad4b.chunk.js": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/2.647bad4b.chunk.js",
-    "static/js/2.647bad4b.chunk.js.map": "/venskolev/FRONTEND-13-project-2022-04-27/static/js/2.647bad4b.chunk.js.map",
-    "index.html": "/venskolev/FRONTEND-13-project-2022-04-27/index.html",
-    "precache-manifest.0ebfe291b44cfd8c6a0bf6792ae8a386.js": "/venskolev/FRONTEND-13-project-2022-04-27/precache-manifest.0ebfe291b44cfd8c6a0bf6792ae8a386.js",
-    "service-worker.js": "/venskolev/FRONTEND-13-project-2022-04-27/service-worker.js",
-    "static/css/main.a3cfdc74.chunk.css.map": "/venskolev/FRONTEND-13-project-2022-04-27/static/css/main.a3cfdc74.chunk.css.map",
-    "static/media/spinner-solid.11e425a3.svg": "/venskolev/FRONTEND-13-project-2022-04-27/static/media/spinner-solid.11e425a3.svg"
+    "main.css": "/FRONTEND-13-project-2022-04-27/static/css/main.a3cfdc74.chunk.css",
+    "main.js": "/FRONTEND-13-project-2022-04-27/static/js/main.ef9c2d26.chunk.js",
+    "main.js.map": "/FRONTEND-13-project-2022-04-27/static/js/main.ef9c2d26.chunk.js.map",
+    "runtime~main.js": "/FRONTEND-13-project-2022-04-27/static/js/runtime~main.0c02b7e8.js",
+    "runtime~main.js.map": "/FRONTEND-13-project-2022-04-27/static/js/runtime~main.0c02b7e8.js.map",
+    "static/js/2.647bad4b.chunk.js": "/FRONTEND-13-project-2022-04-27/static/js/2.647bad4b.chunk.js",
+    "static/js/2.647bad4b.chunk.js.map": "/FRONTEND-13-project-2022-04-27/static/js/2.647bad4b.chunk.js.map",
+    "index.html": "/FRONTEND-13-project-2022-04-27/index.html",
+    "precache-manifest.86c8ff4548220766fd90a75db15f2880.js": "/FRONTEND-13-project-2022-04-27/precache-manifest.86c8ff4548220766fd90a75db15f2880.js",
+    "service-worker.js": "/FRONTEND-13-project-2022-04-27/service-worker.js",
+    "static/css/main.a3cfdc74.chunk.css.map": "/FRONTEND-13-project-2022-04-27/static/css/main.a3cfdc74.chunk.css.map",
+    "static/media/spinner-solid.11e425a3.svg": "/FRONTEND-13-project-2022-04-27/static/media/spinner-solid.11e425a3.svg"
   }
 }
