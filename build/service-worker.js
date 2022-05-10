@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/venskolev/FRONTEND-13-project-2022-04-27/precache-manifest.0ebfe291b44cfd8c6a0bf6792ae8a386.js"
+  "/FRONTEND-13-project-2022-04-27/precache-manifest.86c8ff4548220766fd90a75db15f2880.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/venskolev/FRONTEND-13-project-2022-04-27/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/FRONTEND-13-project-2022-04-27/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
